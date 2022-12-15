@@ -5,6 +5,8 @@ import styles from './App.module.css';
 import SignalTutorial from './signals/signals-tutorial';
 import EffectsTutorial from './effects/effects-tutorial';
 import DerivedSignals from './derived-signals/derived-signals';
+import Memos from './memos/memos';
+import ControlFlowTutorial from './control-flow/control-flow';
 
 const App: Component = () => {
   /**
@@ -24,8 +26,22 @@ const App: Component = () => {
   /**
    * 3. DERIVED SIGNALS
    */
+  // return (
+  //   <DerivedSignals />
+  // )
+
+  /**
+   * 4. MEMOS
+   */
+  // return (
+  //   <Memos />
+  // )
+
+  /**
+   * 5. CONTROL FLOW
+   */
   return (
-    <DerivedSignals />
+    <ControlFlowTutorial />
   )
 
 
