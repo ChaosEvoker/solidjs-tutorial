@@ -2,7 +2,7 @@
 
 This is a learning project for SolidJS. Basically, I just went through the official SolidJS tutorials and took notes as I understood things. If you have any questions about this, feel free to hit me up on Teams. My notes are taken from the perspective of someone who is pretty familiar with functional React so there will be a lot of comparisons to things that exist in React and how they compare and relate to things in SolidJS.
 
-- Phillip
+\- Phillip
 
 ## Usage
 
