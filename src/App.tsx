@@ -7,42 +7,43 @@ import EffectsTutorial from './effects/effects-tutorial';
 import DerivedSignals from './derived-signals/derived-signals';
 import Memos from './memos/memos';
 import ControlFlowTutorial from './control-flow/control-flow';
+import LifecycleTutorial from './lifecycle/lifecycle';
+import BindingsTutorial from './bindings/bindings';
 
 const App: Component = () => {
   /**
    * 1. SIGNALS
    */
-  // return (
-  //   <SignalTutorial />
-  // )
+  // return <SignalTutorial />
 
   /**
    * 2. EFFECTS
    */
-  // return (
-  //   <EffectsTutorial />
-  // )
-
+  // return <EffectsTutorial />
   /**
    * 3. DERIVED SIGNALS
    */
-  // return (
-  //   <DerivedSignals />
-  // )
+  // return <DerivedSignals />
 
   /**
    * 4. MEMOS
    */
-  // return (
-  //   <Memos />
-  // )
+  // return <Memos />
 
   /**
    * 5. CONTROL FLOW
    */
-  return (
-    <ControlFlowTutorial />
-  )
+  // return <ControlFlowTutorial />
+
+   /**
+   * 5. LIFECYCLE
+   */
+  //  return <LifecycleTutorial />
+
+   /**
+   * 5. BINDINGS
+   */
+   return <BindingsTutorial />
 
 
   /**

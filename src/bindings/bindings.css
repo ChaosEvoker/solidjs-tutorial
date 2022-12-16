@@ -1,0 +1,25 @@
+.basic-class-example {
+  color: blue;
+  font-size: 80px;
+  font-weight: 800;
+}
+
+.isEven {
+  color: blue;
+}
+
+.isOdd {
+  color: red;
+}
+
+.ref-animation-example {
+  background-color: #666;
+  -webkit-mask: url(https://www.solidjs.com/img/logo/dark-without-wordmark/logo.svg) 50% 50% no-repeat;
+  mask: url(https://www.solidjs.com/img/logo/dark-without-wordmark/logo.svg) 50% 50% no-repeat;
+}
+
+.modal {
+  padding: 16px;
+  border: 1px solid #444;
+  box-shadow: 4px 4px #88888866;
+}

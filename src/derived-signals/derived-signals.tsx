@@ -12,6 +12,9 @@ import { createSignal } from "solid-js";
  * that accesses a Signal becomes a Signal itself. When called, these Derived Signals will
  * also update and re-render any readers that call them.
  * 
+ * Note that "accessing" basically mean calling the getter function. Calling the setter function
+ * will not cause something to become a signal.
+ * 
  */
 
 function DerivedSignals() {
