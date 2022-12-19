@@ -9,6 +9,7 @@ import Memos from './memos/memos';
 import ControlFlowTutorial from './control-flow/control-flow';
 import LifecycleTutorial from './lifecycle/lifecycle';
 import BindingsTutorial from './bindings/bindings';
+import PropsTutorial from './props/props';
 
 const App: Component = () => {
   /**
@@ -43,8 +44,13 @@ const App: Component = () => {
    /**
    * 5. BINDINGS
    */
-   return <BindingsTutorial />
+  //  return <BindingsTutorial />
 
+  /**
+   * 6. PROPS
+   */
+  return <PropsTutorial />
+   
 
   /**
    * ORIGINAL DEFAULT APP FROM TEMPLATE

@@ -1,18 +1,18 @@
 lockfileVersion: 5.4
 
 specifiers:
-  solid-js: ^1.5.1
+  solid-js: ^1.6.5
   typescript: ^4.8.2
   vite: ^3.0.9
   vite-plugin-solid: ^2.3.0
 
 dependencies:
-  solid-js: 1.5.1
+  solid-js: 1.6.5
 
 devDependencies:
   typescript: 4.8.2
   vite: 3.0.9
-  vite-plugin-solid: 2.3.0_solid-js@1.5.1+vite@3.0.9
+  vite-plugin-solid: 2.3.0_solid-js@1.6.5+vite@3.0.9
 
 packages:
 
@@ -806,12 +806,12 @@ packages:
     hasBin: true
     dev: true
 
-  /solid-js/1.5.1:
-    resolution: {integrity: sha512-Y6aKystIxnrB0quV5nhqNuJV+l2Fk3/PQy1mMya/bzxlGiMHAym7v1NaqEgqDIvctbkxOi5dBj0ER/ewrH060g==}
+  /solid-js/1.6.5:
+    resolution: {integrity: sha512-q1/wIIRmrWltNnP3PW/e29eRWCC24hX5amBiOXomw2kDiM6JZZ10l+chK/Oi/6ipwUxeabYl5YD2lJOObY9heA==}
     dependencies:
       csstype: 3.1.0
 
-  /solid-refresh/0.4.1_solid-js@1.5.1:
+  /solid-refresh/0.4.1_solid-js@1.6.5:
     resolution: {integrity: sha512-v3tD/OXQcUyXLrWjPW1dXZyeWwP7/+GQNs8YTL09GBq+5FguA6IejJWUvJDrLIA4M0ho9/5zK2e9n+uy+4488g==}
     peerDependencies:
       solid-js: ^1.3
@@ -819,7 +819,7 @@ packages:
       '@babel/generator': 7.18.7
       '@babel/helper-module-imports': 7.18.6
       '@babel/types': 7.18.8
-      solid-js: 1.5.1
+      solid-js: 1.6.5
     dev: true
 
   /source-map-js/1.0.2:
@@ -865,7 +865,7 @@ packages:
       picocolors: 1.0.0
     dev: true
 
-  /vite-plugin-solid/2.3.0_solid-js@1.5.1+vite@3.0.9:
+  /vite-plugin-solid/2.3.0_solid-js@1.6.5+vite@3.0.9:
     resolution: {integrity: sha512-N2sa54C3UZC2nN5vpj5o6YP+XdIAZW6n6xv8OasxNAcAJPFeZT7EOVvumL0V4c8hBz1yuYniMWdESY8807fVSg==}
     peerDependencies:
       solid-js: ^1.3.17
@@ -875,8 +875,8 @@ packages:
       '@babel/preset-typescript': 7.18.6_@babel+core@7.18.6
       babel-preset-solid: 1.4.6_@babel+core@7.18.6
       merge-anything: 5.0.2
-      solid-js: 1.5.1
-      solid-refresh: 0.4.1_solid-js@1.5.1
+      solid-js: 1.6.5
+      solid-refresh: 0.4.1_solid-js@1.6.5
       vite: 3.0.9
     transitivePeerDependencies:
       - supports-color
