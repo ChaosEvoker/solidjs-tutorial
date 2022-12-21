@@ -52,5 +52,11 @@ npm start
 
 Here's some more SolidJS stuff I found while reasearching for this tutorial.
 
+The official ecosystem list on Solid's website:
+https://www.solidjs.com/ecosystem
+
+The official education resources list on Solid's website:
+https://www.solidjs.com/resources
+
 A bunch of different resources and libraries compiled into a list:
 https://github.com/one-aalam/awesome-solid-js
