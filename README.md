@@ -41,4 +41,15 @@ npm start
 2. Effects Tutorial
 3. Derived Signals
 4. Memos
+5. Control Flow
+6. Lifecycle
+7. Bindings
+8. Props
+9. Stores
 
+## Additional Resources
+
+Here's some more SolidJS stuff I found while reasearching for this tutorial.
+
+A bunch of different resources and libraries compiled into a list:
+https://github.com/one-aalam/awesome-solid-js

@@ -10,6 +10,7 @@ import ControlFlowTutorial from './control-flow/control-flow';
 import LifecycleTutorial from './lifecycle/lifecycle';
 import BindingsTutorial from './bindings/bindings';
 import PropsTutorial from './props/props';
+import StoresTutorial from './stores/stores';
 
 const App: Component = () => {
   /**
@@ -37,19 +38,24 @@ const App: Component = () => {
   // return <ControlFlowTutorial />
 
    /**
-   * 5. LIFECYCLE
+   * 6. LIFECYCLE
    */
   //  return <LifecycleTutorial />
 
    /**
-   * 5. BINDINGS
+   * 7. BINDINGS
    */
   //  return <BindingsTutorial />
 
   /**
-   * 6. PROPS
+   * 8. PROPS
    */
-  return <PropsTutorial />
+  // return <PropsTutorial />
+
+  /**
+   * 9. STORES
+   */
+  return <StoresTutorial />
    
 
   /**
