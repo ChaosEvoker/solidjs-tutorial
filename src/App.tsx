@@ -11,6 +11,7 @@ import LifecycleTutorial from './lifecycle/lifecycle';
 import BindingsTutorial from './bindings/bindings';
 import PropsTutorial from './props/props';
 import StoresTutorial from './stores/stores';
+import DataFlowTutorial from './data-flow/data-flow';
 
 const App: Component = () => {
   /**
@@ -55,7 +56,12 @@ const App: Component = () => {
   /**
    * 9. STORES
    */
-  return <StoresTutorial />
+  // return <StoresTutorial />
+
+  /**
+   * 10. DATA FLOW
+   */
+  return <DataFlowTutorial />
    
 
   /**

@@ -46,6 +46,7 @@ npm start
 7. Bindings
 8. Props
 9. Stores
+10. Data Flow
 
 ## Additional Resources
 
