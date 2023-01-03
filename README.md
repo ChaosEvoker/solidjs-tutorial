@@ -6,10 +6,10 @@ This is a learning project for SolidJS. Basically, I just went through the offic
 
 ## Usage
 
-First, this project requires Node v18. If you don't already have NVM installed to easily manage and swap between different versions of Node it might be good to get that setup since the Portal (at time of writing) runs off Node v14. You can [click here to see how to install NVM on Windows](https://github.com/coreybutler/nvm-windows). Then you can run:
+First, this project requires Node v18. If you don't already have NVM installed to easily manage and swap between different versions of Node, it might be good to get that setup if you need multiple versions of Node.
 
 ```bash
-# install the version you need for Portal
+# install the version you need for legacy reasons
 nvm install 14
 # install the version you need for this project
 nvm install latest
@@ -47,6 +47,8 @@ npm start
 8. Props
 9. Stores
 10. Data Flow
+11. Reactivity
+12. Async
 
 ## Additional Resources
 
