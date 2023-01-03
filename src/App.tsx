@@ -13,6 +13,7 @@ import PropsTutorial from './props/props';
 import StoresTutorial from './stores/stores';
 import DataFlowTutorial from './data-flow/data-flow';
 import ReactivityTutorial from './reactivity/reactivity';
+import AsyncTutorial from './async/async';
 
 const App: Component = () => {
   /**
@@ -67,7 +68,12 @@ const App: Component = () => {
   /**
    * 11. REACTIVITY
    */
-  return <ReactivityTutorial />
+  // return <ReactivityTutorial />
+
+  /**
+   * 12. ASYNC
+   */
+  return <AsyncTutorial />
    
 
   /**

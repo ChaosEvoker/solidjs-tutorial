@@ -1,5 +1,4 @@
-import { children, createEffect, createSignal, For, JSX, JSXElement, mergeProps, splitProps } from "solid-js";
-import { ResolvedJSXElement } from "solid-js/types/reactive/signal";
+import { children, createEffect, createSignal, For, JSX, mergeProps, splitProps } from "solid-js";
 
 /**
  * Props notes
