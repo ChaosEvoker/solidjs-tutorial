@@ -33,8 +33,6 @@ To start the project after installing run
 npm start
 ```
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
-
 ## Order of Tutorials
 
 1. Signals Tutorial
