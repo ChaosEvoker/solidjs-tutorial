@@ -12,6 +12,7 @@ import BindingsTutorial from './bindings/bindings';
 import PropsTutorial from './props/props';
 import StoresTutorial from './stores/stores';
 import DataFlowTutorial from './data-flow/data-flow';
+import ReactivityTutorial from './reactivity/reactivity';
 
 const App: Component = () => {
   /**
@@ -61,7 +62,12 @@ const App: Component = () => {
   /**
    * 10. DATA FLOW
    */
-  return <DataFlowTutorial />
+  // return <DataFlowTutorial />
+
+  /**
+   * 11. REACTIVITY
+   */
+  return <ReactivityTutorial />
    
 
   /**
